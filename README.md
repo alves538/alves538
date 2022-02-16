@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi I'm Lucas 👋
+
+Welcome to my profile! I am a student at Estácio, aspiring full-stack developer, part-time programmer and full-time worker. Currently I work as Administrative Assistant until I get my first job in the development area. Thanks for the visit!
+
+
+
 
 <!--
 **alves538/alves538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
